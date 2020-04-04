@@ -1,6 +1,11 @@
 [
   {
     "type": "internal",
+    "url": "/new-page-example",
+    "title": "New Page Example"
+  },
+  {
+    "type": "internal",
     "url": "/about",
     "title": "About"
   }
