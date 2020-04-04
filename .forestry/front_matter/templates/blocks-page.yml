@@ -20,4 +20,5 @@ fields:
   - block__cta
 pages:
 - src/pages/about.md
+- src/pages/blocks.md
 - src/pages/index.md
