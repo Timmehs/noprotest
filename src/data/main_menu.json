@@ -5,6 +5,11 @@
     "title": "Wendy's Non-Profit"
   },
   {
+    "type": "interal",
+    "url": "/about",
+    "title": "About"
+  },
+  {
     "type": "internal",
     "url": "/about-the-demo",
     "title": "What is this?"
