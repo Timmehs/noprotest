@@ -17,15 +17,12 @@ class Navbar extends Component {
   render() {
     return (
       <nav
-        className="navbar is-primary main-navigation"
+        className="navbar has-background-light main-navigation"
         role="navigation"
         aria-label="main navigation"
       >
         <div className="navbar-brand">
-          <Link
-            className="navbar-item has-text-weight-semibold"
-            to="/"
-          >
+          <Link className="navbar-item has-text-weight-semibold" to="/">
             {this.props.siteTitle}
           </Link>
 
