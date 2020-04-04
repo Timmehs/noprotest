@@ -1,5 +1,5 @@
 ---
-title: New Page Example
+title: Page Example
 
 ---
 # New Page
