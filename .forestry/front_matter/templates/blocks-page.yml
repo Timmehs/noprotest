@@ -19,5 +19,4 @@ fields:
   - block__3col
   - block__cta
 pages:
-- src/pages/blocks.md
 - src/pages/index.md
