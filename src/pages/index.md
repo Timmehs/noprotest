@@ -5,7 +5,7 @@ blocks:
 - template: block__hero
   component: hero
   background: transparent
-  title: Forestry's Gatsby Demo
+  title: Wendy's Non-Profit
   subtitle: A Gatsby Starter Built for Forestry
 - template: block__feature
   component: feature
