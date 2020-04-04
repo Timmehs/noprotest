@@ -6,4 +6,5 @@ fields:
   name: title
   label: Title
 pages:
+- src/pages/hogwarts-signup.md
 - src/pages/new-page-example.md
