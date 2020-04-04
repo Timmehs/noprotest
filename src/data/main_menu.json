@@ -1,5 +1,10 @@
 [
   {
+    "type": "external",
+    "url": "https://timsandberg.com",
+    "title": "Tims Site"
+  },
+  {
     "type": "internal",
     "url": "/new-page-example",
     "title": "Page Example"
