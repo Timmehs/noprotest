@@ -1,27 +1,7 @@
 [
   {
     "type": "internal",
-    "url": "/",
-    "title": "Wendy's Non-Profit"
-  },
-  {
-    "type": "interal",
-    "url": "/About",
+    "url": "/about",
     "title": "About"
-  },
-  {
-    "type": "internal",
-    "url": "/about-the-demo",
-    "title": "What is this?"
-  },
-  {
-    "type": "internal",
-    "url": "/about-the-ssg",
-    "title": "About Gatsby"
-  },
-  {
-    "type": "internal",
-    "url": "/posts",
-    "title": "Blog"
   }
 ]
