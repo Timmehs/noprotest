@@ -21,8 +21,9 @@ blocks:
   background: dark
   orientation: normal
   title: Are you a maker?
-  content: Join the <a href="https://www.facebook.com/groups/209781503693623/" title="">Facebook
-    Group</a> to get started on making PPEs<br>
+  content: 'Join the <a href="https://www.facebook.com/groups/209781503693623/" title=""><strong><span
+    style="text-decoration: underline;">Facebook Group</span></strong></a> to get
+    started on making PPEs<br>'
   image: "/src/images/91865456_10163584439465227_4047926772908425216_o.jpg"
 - template: block__feature
   component: feature
