@@ -55,9 +55,14 @@ blocks:
       on all levels. '
     image: "/src/images/wendy.jpg"
   col3:
-    title: Blocks Page Builder
-    content: Use blocks to give editors the power to build dynamic pages - like this
-      one!
-    image: ''
+    title: Mandi Lane McKay
+    content: Svenskt Lorem ipsum är en ny version på den berömda Lorem ipsum stycket.
+      Klassiska galenskaper man aldrig får använda är alltid roligt. Att man sedan
+      kan flytta ett hus norrut är helt uppenbart felaktigt. Att man på senare år
+      har använt tolv dagar; det är katastrof! Glada bläckfiskar hoppar aldrig ner
+      för taket när de är på väg hemåt. I fjol hade jag fjorton, men nu har jag bara
+      nio kvar. Galna kossor lever glatt på åkern i norra Stockholm. Kanske kan man
+      få ihop en lång text av detta eller behövs det helt enkelt fler meningar?
+    image: "/src/images/78614864_10218956558400567_264624888000544768_n.jpg"
 
 ---
