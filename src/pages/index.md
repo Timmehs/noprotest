@@ -7,8 +7,12 @@ blocks:
   image: "/src/images/MVIMG_20200112_081838.jpg"
   background: light
   orientation: reverse
-  title: A CMS for your Gatsby Project
-  content: Forestry gives content writers a <strong>user-friendly editing experience</strong>
+  title: Greater Good Innovations
+  content: "<strong>We address the needs of the greater good by fostering thoughtful
+    innovation.<br><br></strong>Greater Good Innovations provides logistics and engineering
+    support to communities trying to solve global problems. We providing training,
+    resources, and to groups that are creating solutions that serve a dire community
+    need"
 - template: block__cta
   component: cta
   background: transparent
