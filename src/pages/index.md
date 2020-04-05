@@ -5,7 +5,7 @@ blocks:
 - template: block__feature
   component: feature
   image: "/src/images/my-life-through-a-lens-bq31L0jQAjU-unsplash.jpg"
-  background: transparent
+  background: primary
   orientation: normal
   title: Greater Good Innovations
   content: "<strong>We address the needs of the greater good by fostering thoughtful
