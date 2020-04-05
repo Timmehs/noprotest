@@ -17,7 +17,7 @@ blocks:
   background: dark
   button:
     text: Learn More
-    url: "/ppe"
+    url: "/ppes-for-healthcare-workers"
   title: Personal Protective Equipment (PPE) for Healthcare Heroes
   subtitle: Our most recent project is to help meet healthcare worker PPE needs through
     Good Samaritan efforts. We are working directly with a rapidly growing community
