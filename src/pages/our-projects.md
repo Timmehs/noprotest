@@ -10,8 +10,6 @@ Personal protective equipment (PPE) supply shortages are already happening aroun
 
 [**Donate Now**](https://donorbox.org/masks-for-washington-hospitals "Donate Now")
 
-<a class="dbox-donation-button" style="background: #8E40D0;color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 13px 17px;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;box-shadow: 0 1px 0 0 #1f5a89;text-shadow: 0 1px rgba(0, 0, 0, 0.3);" href="[https://donorbox.org/masks-for-washington-hospitals?default_interval=o](https://donorbox.org/masks-for-washington-hospitals?default_interval=o "https://donorbox.org/masks-for-washington-hospitals?default_interval=o")">Donate</a>
-
 ### Are you a maker?
 
 Join the [**Facebook Group**](https://www.facebook.com/groups/209781503693623/) to get started on making PPEs.
