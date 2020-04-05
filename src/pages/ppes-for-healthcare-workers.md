@@ -44,15 +44,19 @@ blocks:
   image: "/src/images/91884414_10219039739938571_4778948494658371584_o (1).jpg"
 - template: block__feature
   component: feature
-  background: primary
+  background: light
+  orientation: reverse
+  title: Do you work in healthcare?
+  content: Thank you for your hard work. Let us know how we can help - <a href="https://airtable.com/shr8N7KR1XbVziJ5k"
+    title="Click here">click here</a> to submit a request for PPEs.
+  image: "/src/images/91865456_10163584439465227_4047926772908425216_o.jpg"
+- template: block__feature
+  component: feature
+  background: dark
   orientation: normal
-  title: ''
-  content: ''
-  image: ''
-- template: block__hero
-  component: hero
-  background: transparent
-  title: ''
-  subtitle: ''
+  title: Request for PPE pickup
+  content: Have you printed PPEs and are they ready for pickup? <a href="https://airtable.com/shriWHxJj5lhjHIdJ"
+    title="Fill out this form.">Fill out this form.</a>
+  image: "/src/images/91949474_10219490303062456_6105238132284719104_o.jpg"
 
 ---
