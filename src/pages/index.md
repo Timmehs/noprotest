@@ -42,7 +42,7 @@ blocks:
     image: "/src/images/alice-headshot-round.png"
     title: Alice Ferng | Director
   col2:
-    title: Wendy Pei
+    title: Wendy Pei | Director
     content: 'Wendy (they/them) is a first generation Chinese-American QPOC and parent
       from Oakland, California. At Microsoft, they design Outlook and have facilitated
       as well as trained folks in facilitating dozens of design sprints with people
