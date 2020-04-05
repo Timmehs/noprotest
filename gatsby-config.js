@@ -1,11 +1,16 @@
 const config = require('./site-config.json')
 
+require('dotenv').config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
     title: config.title,
     description: config.description,
     footer: config.footer,
+    siteUrl: process.env.SITE_URL,
   },
   plugins: [
     {
