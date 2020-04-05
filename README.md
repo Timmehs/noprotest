@@ -1,6 +1,5 @@
 # Greater Good Innovations
-
----
+<img src="https://github.com/Timmehs/greater-good-innovations/raw/master/src/images/ggi-logo.png" width="300"/>
 
 ## Technologies
 
