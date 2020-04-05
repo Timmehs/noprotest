@@ -4,13 +4,13 @@ template: blocks
 blocks:
   - template: block__feature
     component: feature
-    image: '/src/images/my-life-through-a-lens-bq31L0jQAjU-unsplash.jpg'
+    image: '/src/images/ggi-logo.png'
     background: light
     orientation: normal
-    title: Greater Good Innovations
+    title: We help address the needs of the greater good by fostering thoughtful
+      innovation
     content:
-      '<strong>We address the needs of the greater good by fostering thoughtful
-      innovation.<br><br></strong>Greater Good Innovations provides logistics and engineering
+      'Greater Good Innovations provides logistics and engineering
       support to communities trying to solve global problems. We believe in the power
       of human ingenuity and by providing the proper training and resources we believe
       can activate passionate groups of people to think of creative solutions to dire
@@ -21,9 +21,9 @@ blocks:
     button:
       text: Learn More
       url: '/ppe'
-    title: PERSONAL PROTECTIVE EQUIPMENT (PPE) FOR HEALTHCARE HEROS
+    title: Personal Protective Equipment (PPE) for Healthcare Heroes
     subtitle:
-      Our most recent timely project is to help meet healthcare worker PPE needs
+      Our most recent project is to help meet healthcare worker PPE needs
       through Good Samaritan efforts. We are working directly with a rapidly growing
       community of makers who are using their own resources to 3D print face shields
       and masks for hospitals. Our role is to maintain the fundraising campaign that
@@ -68,5 +68,5 @@ blocks:
         för taket när de är på väg hemåt. I fjol hade jag fjorton, men nu har jag bara
         nio kvar. Galna kossor lever glatt på åkern i norra Stockholm. Kanske kan man
         få ihop en lång text av detta eller behövs det helt enkelt fler meningar?
-      image: '/src/images/78614864_10218956558400567_264624888000544768_n.jpg'
+      image: '/src/images/mandi-headshot.jpg'
 ---

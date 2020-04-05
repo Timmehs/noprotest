@@ -21,7 +21,7 @@ const Feature = ({ block }) => (
             {block.image && (
               <img
                 alt={block.title}
-                src={block.image.childImageSharp.fluid.srcSet}
+                srcSet={block.image.childImageSharp.fluid.srcSet}
               />
             )}
           </div>
