@@ -1,12 +1,12 @@
 [
   {
     "type": "internal",
-    "url": "/donate",
-    "title": "Donate"
+    "url": "/our-projects",
+    "title": "Our Projects"
   },
   {
     "type": "internal",
-    "url": "/our-projects",
-    "title": "Our Projects"
+    "url": "/donate",
+    "title": "Donate"
   }
 ]
