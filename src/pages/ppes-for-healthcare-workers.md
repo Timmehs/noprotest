@@ -4,7 +4,7 @@ title: PPEs for Healthcare Workers
 blocks:
 - template: block__cta
   component: cta
-  background: transparent
+  background: light
   subtitle: Help us protect our Frontline Heroes from COVID-19. Personal protective
     equipment (PPE) supply shortages are already happening around local and national
     healthcare facilities, and we are far from being able to meet the demand with
@@ -21,15 +21,7 @@ blocks:
     of healthcare professions throughout the state of Washington.
   title: ''
   button:
-    url: ''
-    text: ''
-- template: block__cta
-  component: cta
-  background: transparent
-  title: ''
-  subtitle: ''
-  button:
-    url: ''
-    text: ''
+    url: https://donorbox.org/masks-for-washington-hospitals
+    text: Donate
 
 ---
