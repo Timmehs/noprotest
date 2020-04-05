@@ -39,8 +39,8 @@ blocks:
   background: dark
   orientation: normal
   title: Request for PPE pickup
-  content: Have you printed PPEs and are they ready for pickup? <a href="https://airtable.com/shriWHxJj5lhjHIdJ"
-    title="">Fill out this form</a>.
+  content: 'Have you printed PPEs and are they ready for pickup? <a href="https://airtable.com/shriWHxJj5lhjHIdJ"
+    title=""><strong><span style="text-decoration: underline;">Fill out this form</span></strong></a>.'
   image: "/src/images/91865456_10163584439465227_4047926772908425216_o.jpg"
 
 ---
