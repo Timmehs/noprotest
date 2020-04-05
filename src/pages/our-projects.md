@@ -8,7 +8,7 @@ title: Our Projects
 
 Personal protective equipment (PPE) supply shortages are already happening around local and national healthcare facilities, and we are far from being able to meet the demand with our current supply chains. We have not yet reached the peak of this unprecedented health crisis. Your support will help us supply face shields to frontline workers, especially as we are approaching peak resource use - this is a race against the clock to protect our dedicated healthcare professionals in this coronavirus battle.
 
-[**Donate Now**](https://donorbox.org/masks-for-washington-hospitals "Donate Now")
+[**Donate Now**](/donate "Donate Now")
 
 ### Are you a maker?
 
