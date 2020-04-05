@@ -27,30 +27,29 @@ blocks:
     and masks for hospitals. Our role is to maintain the fundraising campaign that
     will cover the expenses of 3D printing and distribution of the PPEs. 501(c)(3)
     status pending.
-- template: block__feature
-  component: feature
-  background: light
-  orientation: normal
-  title: Build a Site in Minutes
-  content: Our Gatsby starter is pre-configured with support for <strong>markdown</strong>,
-    and of course works great with Forestry's CMS.
-  image: "/src/images/quickstart.png"
-- template: block__feature
-  component: feature
-  background: dark
-  orientation: reverse
-  title: Instant Previews
-  content: Forestry's new <strong>instant previews</strong> feature dramatically reduces
-    preview build times, giving you a tighter feedback loop.
-  image: "/src/images/instant_preview_console.png"
 - template: block__3col
   component: 3col
-  title: Why Forestry?
+  title: Board of Directors
   col1:
-    title: Content Lives in Git
-    content: Content updates are saved to your git repo, so they can by synchronized
-      across all environments
-    image: ''
+    content: <span class=" author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qowz81zz76zqz76zyz85zz88zgwz65zb9z67zz90zuz66z1ai4z82zfz67zs8fb7vvz70z">Dr.
+      Alice Ferng is an engineer and scientist who is very passionate about medical
+      technology, healthcare, and education. During her studies as an MD/PhD candidate
+      at the University of Arizona College of Medicine, she became enamored with ways
+      that technology could be used to augment medicine and health, and began to explore
+      these possibilities during her PhD. She built her own 3D bioprinter for stem
+      cells and biologics and worked on other medical devices and mobile health apps,
+      with some utilizing Virtual/Augmented Reality. Alice has worked in many clinical
+      translational laboratories, most recently interacting with cardiac transplant
+      patients while working on cardiac organogenesis</span><span class=" author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qowz81zz76zqz76zyz85zz88zgwz65zb9z67zz90zuz66z1ai4z82zfz67zs8fb7vvz70z
+      s-lparen"> </span><span class=" author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qowz81zz76zqz76zyz85zz88zgwz65zb9z67zz90zuz66z1ai4z82zfz67zs8fb7vvz70z
+      h-lparen">(growing</span><span class=" author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qowz81zz76zqz76zyz85zz88zgwz65zb9z67zz90zuz66z1ai4z82zfz67zs8fb7vvz70z">
+      hearts in bioreactors), and stem cell therapies. She has also been involved
+      with multiple medical education companies, including Osmosis, Kenhub, and Picmonic.
+      These days, she is involved in Artificial Intelligence and Machine Learning
+      algorithm development for various healthcare applications, and in medical device/wearable
+      technology development.</span>
+    image: "/src/images/alice-headshot.jpg"
+    title: Alice Ferng
   col2:
     title: Customizable CMS
     content: Forestry easily adapts to your content structure, not the other way around.
@@ -60,13 +59,5 @@ blocks:
     content: Use blocks to give editors the power to build dynamic pages - like this
       one!
     image: ''
-- template: block__cta
-  component: cta
-  background: primary
-  title: Create Your Own Gatsby Site
-  subtitle: Use our quick start to import this demo into Forestry
-  button:
-    url: https://app.forestry.io/quick-start?repo=forestryio/gatsby-starter-forestry&branch=master&engine=gatsby
-    text: Get Started
 
 ---
