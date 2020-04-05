@@ -40,6 +40,6 @@ blocks:
     content: Have you printed PPEs and are they ready for pickup? <a href="https://airtable.com/shriWHxJj5lhjHIdJ"
       title="Fill out this form.">Fill out this form.</a>
     image: ''
-  title: PPEs for Healthcare Workers
+  title: ''
 
 ---
