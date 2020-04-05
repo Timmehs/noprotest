@@ -9,4 +9,4 @@ fields:
   name: date
   label: Date
 pages:
-- src/pages/posts/our-project2.md
+- src/pages/posts/our-project.md
