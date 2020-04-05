@@ -5,18 +5,13 @@
     "title": "Blocks Demo"
   },
   {
-    "type": "external",
-    "url": "https://timsandberg.com",
-    "title": "Tims Site"
+    "type": "internal",
+    "url": "/masks-for-masses",
+    "title": "Masks for the Masses"
   },
   {
     "type": "internal",
-    "url": "/new-page-example",
-    "title": "Page Example"
-  },
-  {
-    "type": "internal",
-    "url": "/about",
-    "title": "About"
+    "url": "/makers-space",
+    "title": "Makers Space"
   }
 ]
