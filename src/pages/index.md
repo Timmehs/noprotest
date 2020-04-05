@@ -53,7 +53,7 @@ blocks:
       on all levels. '
     image: "/src/images/wendy-headshot-round.png"
   col3:
-    title: Mandi Lane McKay
+    title: Mandi Lane McKay | Director
     content: Svenskt Lorem ipsum är en ny version på den berömda Lorem ipsum stycket.
       Klassiska galenskaper man aldrig får använda är alltid roligt. Att man sedan
       kan flytta ett hus norrut är helt uppenbart felaktigt. Att man på senare år
