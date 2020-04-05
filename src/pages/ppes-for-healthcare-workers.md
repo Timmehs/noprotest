@@ -34,5 +34,24 @@ blocks:
       title="Fill out this form.">Fill out this form.</a>
     image: "/src/images/91949474_10219490303062456_6105238132284719104_o.jpg"
   title: ''
+- template: block__feature
+  component: feature
+  background: primary
+  orientation: normal
+  title: Are you a maker?
+  content: ''
+  image: ''
+- template: block__feature
+  component: feature
+  background: primary
+  orientation: normal
+  title: ''
+  content: ''
+  image: ''
+- template: block__hero
+  component: hero
+  background: transparent
+  title: ''
+  subtitle: ''
 
 ---
