@@ -36,11 +36,12 @@ blocks:
   title: ''
 - template: block__feature
   component: feature
-  background: primary
+  background: dark
   orientation: normal
   title: Are you a maker?
-  content: ''
-  image: ''
+  content: Join the <a href="https://www.facebook.com/groups/209781503693623/?fref=nf"
+    title="Facebook Group">Facebook Group</a> to get started on making PPEs<br>
+  image: "/src/images/91884414_10219039739938571_4778948494658371584_o (1).jpg"
 - template: block__feature
   component: feature
   background: primary
