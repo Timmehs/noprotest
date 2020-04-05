@@ -67,7 +67,7 @@ blocks:
   button:
     url: mailto://info@greatergoodinnovations.org
     text: Email Us
-  title: Together, We Create
-  subtitle: Connect with us!
+  title: ''
+  subtitle: Together, we create
 
 ---
