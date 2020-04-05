@@ -16,7 +16,7 @@ blocks:
     problems. "
 - template: block__cta
   component: cta
-  background: transparent
+  background: dark
   button:
     text: Learn More
     url: "/ppe"
