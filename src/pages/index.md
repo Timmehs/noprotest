@@ -51,9 +51,16 @@ blocks:
     image: "/src/images/alice-headshot.jpg"
     title: Alice Ferng
   col2:
-    title: Customizable CMS
-    content: Forestry easily adapts to your content structure, not the other way around.
-    image: ''
+    title: Wendy Pei
+    content: 'Wendy (they/them) is a first generation Chinese-American QPOC and parent
+      from Oakland, California. At Microsoft, they design Outlook and have facilitated
+      as well as trained folks in facilitating dozens of design sprints with people
+      of varying technical skills. Wendy arrived at UX design and research by way
+      of customer service—their passion comes from a desire to solve problems rather
+      than just apologizing for them. They strongly believe the key to being a successful
+      designer is to have varied life experiences to inspire one''s ability to empathize
+      on all levels. '
+    image: "/src/images/wendy.jpg"
   col3:
     title: Blocks Page Builder
     content: Use blocks to give editors the power to build dynamic pages - like this
