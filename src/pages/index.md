@@ -2,6 +2,13 @@
 title: Home
 template: blocks
 blocks:
+- template: block__feature
+  component: feature
+  image: "/src/images/MVIMG_20200112_081838.jpg"
+  background: light
+  orientation: reverse
+  title: A CMS for your Gatsby Project
+  content: Forestry gives content writers a <strong>user-friendly editing experience</strong>
 - template: block__cta
   component: cta
   background: transparent
@@ -11,13 +18,6 @@ blocks:
   title: Masks for the Masses
   subtitle: Join the crowd of volunteers protecting our healthcare workers at the
     COVID frontlines
-- template: block__feature
-  component: feature
-  image: "/src/images/MVIMG_20200112_081838.jpg"
-  background: light
-  orientation: reverse
-  title: A CMS for your Gatsby Project
-  content: Forestry gives content writers a <strong>user-friendly editing experience</strong>
 - template: block__feature
   component: feature
   background: light
