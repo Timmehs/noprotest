@@ -38,16 +38,9 @@ blocks:
       that technology could be used to augment medicine and health, and began to explore
       these possibilities during her PhD. She built her own 3D bioprinter for stem
       cells and biologics and worked on other medical devices and mobile health apps,
-      with some utilizing Virtual/Augmented Reality. Alice has worked in many clinical
-      translational laboratories, most recently interacting with cardiac transplant
-      patients while working on cardiac organogenesis</span><span class=" author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qowz81zz76zqz76zyz85zz88zgwz65zb9z67zz90zuz66z1ai4z82zfz67zs8fb7vvz70z
-      s-lparen"> </span><span class=" author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qowz81zz76zqz76zyz85zz88zgwz65zb9z67zz90zuz66z1ai4z82zfz67zs8fb7vvz70z
-      h-lparen">(growing</span><span class=" author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qowz81zz76zqz76zyz85zz88zgwz65zb9z67zz90zuz66z1ai4z82zfz67zs8fb7vvz70z">
-      hearts in bioreactors), and stem cell therapies. She has also been involved
-      with multiple medical education companies, including Osmosis, Kenhub, and Picmonic.
-      These days, she is involved in Artificial Intelligence and Machine Learning
-      algorithm development for various healthcare applications, and in medical device/wearable
-      technology development.</span>
+      with some utilizing Virtual/Augmented Reality. These days, she is involved in
+      Artificial Intelligence and Machine Learning algorithm development for various
+      healthcare applications, and in medical device/wearable technology development.</span>
     image: "/src/images/alice-headshot.jpg"
     title: Alice Ferng
   col2:
