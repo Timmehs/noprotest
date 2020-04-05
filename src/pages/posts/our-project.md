@@ -1,5 +1,5 @@
 ---
-title: Our Project2
+title: Our Project
 date: 2020-03-18T07:00:00Z
 
 ---
