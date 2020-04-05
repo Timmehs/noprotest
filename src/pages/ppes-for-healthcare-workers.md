@@ -30,15 +30,15 @@ blocks:
   orientation: reverse
   title: Do you work in healthcare?
   content: Thank you for your hard work. Let us know how we can help - <a href="https://airtable.com/shr8N7KR1XbVziJ5k"
-    title="Click here">click here</a> to submit a request for PPEs.
+    title="">click here</a> to submit a request for PPEs.
   image: "/src/images/91865456_10163584439465227_4047926772908425216_o.jpg"
 - template: block__feature
   component: feature
   background: dark
   orientation: normal
   title: Request for PPE pickup
-  content: Have you printed PPEs and are they ready for pickup? <a href="https://airtable.com/shriWHxJj5lhjHIdJ"
-    title="Fill out this form.">Fill out this form.</a>
+  content: Have you printed PPEs and are they ready for pickup? <a href="" title="">Fill
+    out this form.</a>
   image: "/src/images/91865456_10163584439465227_4047926772908425216_o.jpg"
 
 ---
