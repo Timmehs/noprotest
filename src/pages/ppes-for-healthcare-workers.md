@@ -30,8 +30,9 @@ blocks:
   background: light
   orientation: reverse
   title: Do you work in healthcare?
-  content: Thank you for your hard work. Let us know how we can help - <a href="https://airtable.com/shr8N7KR1XbVziJ5k"
-    title="">click here</a> to submit a request for PPEs.
+  content: 'Thank you for your hard work. Let us know how we can help - <a href="https://airtable.com/shr8N7KR1XbVziJ5k"
+    title=""><strong><span style="text-decoration: underline;">click here</span></strong></a>
+    to submit a request for PPEs.'
   image: "/src/images/91865456_10163584439465227_4047926772908425216_o.jpg"
 - template: block__feature
   component: feature
