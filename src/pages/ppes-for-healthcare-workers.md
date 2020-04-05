@@ -23,7 +23,7 @@ blocks:
   title: Are you a maker?
   content: Join the <a href="https://www.facebook.com/groups/209781503693623/?fref=nf"
     title="Facebook Group">Facebook Group</a> to get started on making PPEs<br>
-  image: ''
+  image: "/src/images/91865456_10163584439465227_4047926772908425216_o.jpg"
 - template: block__feature
   component: feature
   background: light
@@ -31,7 +31,7 @@ blocks:
   title: Do you work in healthcare?
   content: Thank you for your hard work. Let us know how we can help - <a href="https://airtable.com/shr8N7KR1XbVziJ5k"
     title="Click here">click here</a> to submit a request for PPEs.
-  image: ''
+  image: "/src/images/91865456_10163584439465227_4047926772908425216_o.jpg"
 - template: block__feature
   component: feature
   background: dark
@@ -39,6 +39,6 @@ blocks:
   title: Request for PPE pickup
   content: Have you printed PPEs and are they ready for pickup? <a href="https://airtable.com/shriWHxJj5lhjHIdJ"
     title="Fill out this form.">Fill out this form.</a>
-  image: ''
+  image: "/src/images/91865456_10163584439465227_4047926772908425216_o.jpg"
 
 ---
