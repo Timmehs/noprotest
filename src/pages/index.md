@@ -64,7 +64,7 @@ blocks:
     image: "/src/images/mandi-headshot-round.png"
 - template: block__cta
   component: cta
-  background: primary
+  background: dark
   button:
     url: mailto://info@greatergoodinnovations.org
     text: Email Us
