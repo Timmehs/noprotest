@@ -4,15 +4,16 @@ template: blocks
 blocks:
 - template: block__feature
   component: feature
-  image: "/src/images/MVIMG_20200112_081838.jpg"
+  image: "/src/images/my-life-through-a-lens-bq31L0jQAjU-unsplash.jpg"
   background: light
   orientation: reverse
   title: Greater Good Innovations
   content: "<strong>We address the needs of the greater good by fostering thoughtful
     innovation.<br><br></strong>Greater Good Innovations provides logistics and engineering
-    support to communities trying to solve global problems. We providing training,
-    resources, and to groups that are creating solutions that serve a dire community
-    need"
+    support to communities trying to solve global problems. We believe in the power
+    of human ingenuity and by providing the proper training and resources we believe
+    can activate passionate groups of people to think of creative solutions to dire
+    problems. "
 - template: block__cta
   component: cta
   background: transparent
