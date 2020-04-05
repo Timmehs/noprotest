@@ -5,8 +5,8 @@
     "title": "Our Projects"
   },
   {
-    "type": "internal",
-    "url": "/donate",
+    "type": "external",
+    "url": "https://donorbox.org/embed/masks-for-washington-hospitals",
     "title": "Donate"
   }
 ]
