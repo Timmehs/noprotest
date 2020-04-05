@@ -7,7 +7,7 @@ blocks:
     image: '/src/images/ggi-logo.png'
     background: light
     orientation: normal
-    title: We help address the needs of the greater good by fostering thoughtful innovation
+    title: We help address the needs of the greater good by fostering thoughtful innovation?
     content:
       'Greater Good Innovations provides logistics and engineering support to
       communities trying to solve global problems. We believe in the power of human
