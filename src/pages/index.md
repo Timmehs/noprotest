@@ -18,11 +18,15 @@ blocks:
   component: cta
   background: transparent
   button:
-    text: Get started
-    url: ''
-  title: Masks for the Masses
-  subtitle: Join the crowd of volunteers protecting our healthcare workers at the
-    COVID frontlines
+    text: Learn More
+    url: "/ppe"
+  title: PERSONAL PROTECTIVE EQUIPMENT (PPE) FOR HEALTHCARE HEROS
+  subtitle: Our most recent timely project is to help meet healthcare worker PPE needs
+    through Good Samaritan efforts. We are working directly with a rapidly growing
+    community of makers who are using their own resources to 3D print face shields
+    and masks for hospitals. Our role is to maintain the fundraising campaign that
+    will cover the expenses of 3D printing and distribution of the PPEs. 501(c)(3)
+    status pending.
 - template: block__feature
   component: feature
   background: light
