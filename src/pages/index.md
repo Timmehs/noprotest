@@ -14,7 +14,7 @@ blocks:
     passionate groups of people to think of creative solutions to dire problems. '
 - template: block__cta
   component: cta
-  background: dark
+  background: primary
   button:
     text: Learn More
     url: "/our-projects"
