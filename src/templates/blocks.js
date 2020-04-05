@@ -25,15 +25,16 @@ class BlocksTemplate extends React.Component {
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />
         {post.frontmatter.blocks.map(block => {
+          const key = block.title
           switch (block.component) {
             case '3col':
-              return <ThreeCol block={block} />
+              return <ThreeCol key={key} block={block} />
             case 'feature':
-              return <Feature block={block} />
+              return <Feature key={key} block={block} />
             case 'cta':
-              return <CTA block={block} />
+              return <CTA block={block} key={key} />
             case 'hero':
-              return <Hero block={block} />
+              return <Hero block={block} key={key} />
             default:
               return ''
           }
@@ -80,14 +81,35 @@ export const pageQuery = graphql`
           col1 {
             title
             content
+            image {
+              childImageSharp {
+                fluid(maxWidth: 500) {
+                  srcSet
+                }
+              }
+            }
           }
           col2 {
             title
             content
+            image {
+              childImageSharp {
+                fluid(maxWidth: 500) {
+                  srcSet
+                }
+              }
+            }
           }
           col3 {
             title
             content
+            image {
+              childImageSharp {
+                fluid(maxWidth: 500) {
+                  srcSet
+                }
+              }
+            }
           }
         }
       }
