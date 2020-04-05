@@ -1,6 +1,11 @@
 [
   {
     "type": "internal",
+    "url": "/our-projects",
+    "title": "Our Projects"
+  },
+  {
+    "type": "internal",
     "url": "/ppes-for-healthcare-workers",
     "title": "PPEs For Healthcare Workers"
   }
