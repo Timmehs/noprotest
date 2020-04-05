@@ -27,7 +27,7 @@ blocks:
     501(c)(3) status pending.
 - template: block__3col
   component: 3col
-  title: Board of Directors
+  title: Our Team
   col1:
     content: <span class=" author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qowz81zz76zqz76zyz85zz88zgwz65zb9z67zz90zuz66z1ai4z82zfz67zs8fb7vvz70z">Dr.
       Alice Ferng is an engineer and scientist who is very passionate about medical
@@ -40,7 +40,7 @@ blocks:
       Artificial Intelligence and Machine Learning algorithm development for various
       healthcare applications, and in medical device/wearable technology development.</span>
     image: "/src/images/alice-headshot-round.png"
-    title: Alice Ferng
+    title: Alice Ferng | Director
   col2:
     title: Wendy Pei
     content: 'Wendy (they/them) is a first generation Chinese-American QPOC and parent
