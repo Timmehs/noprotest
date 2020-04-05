@@ -18,12 +18,13 @@ blocks:
   button:
     text: Learn More
     url: "/our-projects"
-  title: Personal Protective Equipment (PPE) for Healthcare Heroes
-  subtitle: Our most recent project is to help meet healthcare worker PPE needs through
-    Good Samaritan efforts. We are working directly with a rapidly growing community
-    of makers who are using their own resources to 3D print face shields and masks
-    for hospitals. Our role is to maintain the fundraising campaign that will cover
-    the expenses of 3D printing and distribution of the PPEs. 501(c)(3) status pending.
+  title: Personal Protective Equipment for Healthcare Heroes
+  subtitle: Our most recent project is to help meet healthcare worker personal protective
+    equipment PPE needs through Good Samaritan efforts. We are working directly with
+    a rapidly growing community of makers who are using their own resources to 3D
+    print face shields and masks for hospitals. Our role is to maintain the fundraising
+    campaign that will cover the expenses of 3D printing and distribution of the PPEs.
+    501(c)(3) status pending.
 - template: block__3col
   component: 3col
   title: Board of Directors
