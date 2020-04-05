@@ -23,5 +23,23 @@ blocks:
   button:
     url: https://donorbox.org/masks-for-washington-hospitals
     text: Donate
+- template: block__3col
+  component: 3col
+  col1:
+    title: Are you a maker?
+    content: Join the <a href="https://www.facebook.com/groups/209781503693623/?fref=nf"
+      title="Facebook Group">Facebook Group</a> to get started on making PPEs<br>
+    image: ''
+  col2:
+    title: Do you work in healthcare?
+    content: <a href="https://airtable.com/shr8N7KR1XbVziJ5k" title="Click here">Click
+      here</a> to submit a request for PPEs
+    image: ''
+  col3:
+    title: Request for PPE pickup
+    content: Have you printed PPEs and are they ready for pickup? <a href="https://airtable.com/shriWHxJj5lhjHIdJ"
+      title="Fill out this form.">Fill out this form.</a>
+    image: ''
+  title: ''
 
 ---
