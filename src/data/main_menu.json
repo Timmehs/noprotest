@@ -1,11 +1,6 @@
 [
   {
     "type": "internal",
-    "url": "/blocks",
-    "title": "Blocks Demo"
-  },
-  {
-    "type": "internal",
     "url": "/ppe",
     "title": "PPEs for Healthcare Workers"
   },
