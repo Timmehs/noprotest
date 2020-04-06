@@ -1,6 +1,6 @@
 ---
 template: blocks
-title: PPEs for Healthcare Workers
+title: Our Projects
 blocks:
 - template: block__feature
   component: feature
