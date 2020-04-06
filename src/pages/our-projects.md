@@ -14,7 +14,7 @@ blocks:
     peak of this unprecedented health crisis. Your support will help us supply face
     shields to frontline workers, especially as we are approaching peak resource use
     - this is a race against the clock to protect our dedicated healthcare professionals
-    in this coronavirus battle. <a class="dbox-donation-button" style="background:
+    in this coronavirus battle. <br><a class="dbox-donation-button" style="background:
     #2d81c5;color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display:
     inline-block;font-size: 16px;padding: 13px 17px;-webkit-border-radius: 2px;-moz-border-radius:
     2px;border-radius: 2px;box-shadow: 0 1px 0 0 #1f5a89;text-shadow: 0 1px rgba(0,
