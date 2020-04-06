@@ -5,3 +5,6 @@ fields:
 - type: text
   name: title
   label: Title
+pages:
+- src/pages/donate.md
+- src/pages/our-projects.md

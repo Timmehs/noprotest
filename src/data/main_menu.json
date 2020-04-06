@@ -1,7 +1,12 @@
 [
   {
     "type": "internal",
-    "url": "/ppes-for-healthcare-workers",
-    "title": "PPEs For Healthcare Workers"
+    "url": "/our-projects",
+    "title": "Our Projects"
+  },
+  {
+    "type": "external",
+    "url": "https://donorbox.org/masks-for-washington-hospitals",
+    "title": "Donate"
   }
 ]
