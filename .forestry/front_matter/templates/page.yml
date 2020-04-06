@@ -7,4 +7,4 @@ fields:
   label: Title
 pages:
 - src/pages/donate.md
-- src/pages/our-projects.md
+- src/pages/your-projects.md
