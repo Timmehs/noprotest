@@ -17,4 +17,3 @@ Our mission is to get face shields into the hands of those on the frontlines as 
 <div class="donation-container"> -->
 <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe class="donation-iframe" allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/masks-for-washington-hospitals" style="max-width: 500px; min-width: 310px; max-height:none!important" width="100%"></iframe>
 </div>
-
