@@ -2,10 +2,13 @@ import React from 'react'
 
 const Column = ({ columnData }) => (
   <aside>
-    <img srcSet={columnData.image.childImageSharp.fluid.srcSet} />
+    <center>
+      <img className="column-avatar" srcSet={columnData.image.childImageSharp.fluid.srcSet} />
+
+    </center>
     <h3 className="subtitle is-4">{columnData.title}</h3>
     <div
-      className="content"
+      className="content is-5"
       dangerouslySetInnerHTML={{ __html: columnData.content }}
     />
   </aside>

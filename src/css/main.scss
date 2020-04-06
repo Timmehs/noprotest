@@ -17,6 +17,16 @@ body {
 
 .content {
   font-size: 1.2rem;
+
+  .donation-iframe {
+    height: 900px;
+    width: 100%;
+  }
+
+  .donation-container {
+    min-height: 900px;
+    text-align: center;
+  }
 }
 
 .page-content {
@@ -25,7 +35,7 @@ body {
   max-width: 70em;
   padding-bottom: 6rem;
   background-color: #fff;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  // box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
 
 .site-header {
@@ -76,4 +86,29 @@ body {
 
 .columns.is-reversed {
   flex-direction: row-reverse;
+}
+
+
+//3-column bio styling
+.subtitle.is-4 {
+  font-size: 1.4rem;
+  line-height: 1;
+  margin: 1rem;
+  text-align: center;
+}
+
+.content.is-5 {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.column-avatar {
+  width: 70%;
+}
+
+// Shrink Avatar Images on smaller screens
+@media (max-width: $tablet) {
+  .column-avatar {
+    max-width: 300px;
+  }
 }
