@@ -34,33 +34,26 @@ blocks:
       technology, healthcare, and education. During her studies as an MD/PhD candidate
       at the University of Arizona College of Medicine, she became enamored with ways
       that technology could be used to augment medicine and health, and began to explore
-      these possibilities during her PhD. She built her own 3D bioprinter for stem
-      cells and biologics and worked on other medical devices and mobile health apps,
-      with some utilizing Virtual/Augmented Reality. These days, she is involved in
-      Artificial Intelligence and Machine Learning algorithm development for various
-      healthcare applications, and in medical device/wearable technology development.</span>
+      these possibilities during her PhD. </span>
     image: "/src/images/alice-headshot-round.png"
-    title: Alice Ferng | Director
+    title: Alice Ferng
   col2:
-    title: Wendy Pei | Director
+    title: Wendy Pei
     content: 'Wendy (they/them) is a first generation Chinese-American QPOC and parent
-      from Oakland, California. At Microsoft, they design Outlook and have facilitated
+      from Oakland, California. They are a designer by trade and have facilitated
       as well as trained folks in facilitating dozens of design sprints with people
-      of varying technical skills. Wendy arrived at UX design and research by way
-      of customer service—their passion comes from a desire to solve problems rather
-      than just apologizing for them. They strongly believe the key to being a successful
+      of varying technical skills. They strongly believe the key to being a successful
       designer is to have varied life experiences to inspire one''s ability to empathize
       on all levels. '
     image: "/src/images/wendy-headshot-round.png"
   col3:
-    title: Mandi Lane McKay | Director
+    title: Mandi McKay
     content: Svenskt Lorem ipsum är en ny version på den berömda Lorem ipsum stycket.
       Klassiska galenskaper man aldrig får använda är alltid roligt. Att man sedan
       kan flytta ett hus norrut är helt uppenbart felaktigt. Att man på senare år
       har använt tolv dagar; det är katastrof! Glada bläckfiskar hoppar aldrig ner
       för taket när de är på väg hemåt. I fjol hade jag fjorton, men nu har jag bara
-      nio kvar. Galna kossor lever glatt på åkern i norra Stockholm. Kanske kan man
-      få ihop en lång text av detta eller behövs det helt enkelt fler meningar?
+      nio kvar. 
     image: "/src/images/mandi-headshot-round.png"
 - template: block__cta
   component: cta
@@ -69,6 +62,6 @@ blocks:
     url: mailto://info@greatergoodinnovations.org
     text: Email Us
   title: ''
-  subtitle: Together, we create!
+  subtitle: Together, We Create!
 
 ---
