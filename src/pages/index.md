@@ -48,12 +48,13 @@ blocks:
     image: "/src/images/wendy-headshot-round.png"
   col3:
     title: Mandi McKay
-    content: Svenskt Lorem ipsum är en ny version på den berömda Lorem ipsum stycket.
-      Klassiska galenskaper man aldrig får använda är alltid roligt. Att man sedan
-      kan flytta ett hus norrut är helt uppenbart felaktigt. Att man på senare år
-      har använt tolv dagar; det är katastrof! Glada bläckfiskar hoppar aldrig ner
-      för taket när de är på väg hemåt. I fjol hade jag fjorton, men nu har jag bara
-      nio kvar. 
+    content: Dr. Mandi McKay is an accomplished internal medicine physician who received
+      her MD from the University of Arizona College of Medicine as an inductee into
+      the Alpha Omega Alpha honor society before going on to complete her residency
+      at the University of Utah Hospital. She has acted in the positions of Founding
+      Partner, President, and Chair of multiple critical care, long term acute care,
+      and inpatient/outpatient care practices. Most memorable from childhood was her
+      accomplishment as the coloring champion in 1985.
     image: "/src/images/mandi-headshot-round.png"
 - template: block__cta
   component: cta
